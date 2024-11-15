@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+ENV/
+env.bak/
+env.d/
+.env
+.venv
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+*.py~
+*.swp
+*~
+.db.sqlite3
+*.sqlite3
+
+# Django migrations
+*/migrations/*
+__pycache__/
+*.py[cod]
+
+# Media files
+media/
+
+# Local settings
+settings_local.py
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node modules
+node_modules/
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# MySQL
+*.sql
+
+# PostgreSQL
+*.pgsql
+
+# Other
+*.pdf
+*.DS_Store
+*.idea
+.idea/
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
